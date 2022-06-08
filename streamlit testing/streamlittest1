@@ -1,0 +1,8 @@
+import streamlit as st
+
+st.set_page_config(page_title='Test Webpage', page_icon=':cloud:', layout='wide')
+
+st.subheader('Hello world!')
+st.title('Cloud Data')
+st.write('I am testing for cloud based data ui')
+st.write('[Hyperlink}>(https://www.google.com)')

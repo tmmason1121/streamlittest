@@ -1,0 +1,8 @@
+(python38) C:\projects>cd streamlit testing
+
+(python38) C:\projects\streamlit testing>streamlit run streamlittest1.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://10.14.225.140:8501
